@@ -8,21 +8,21 @@
   email: liani@codeforboston.org
 
 - name: Jonathan Marcus
-  image: jon-marcus.jpg
+  image:
   email: jonathan@codeforboston.org
 
 - name: Alex Merritt
-  image: alex-merritt.jpg
+  image:
   email: alex@codeforboston.org
 
 - name: Liam Morley
-  image: liam-morley.jpg
+  image:
   email: liam@codeforboston.org
 
 - name: Andrew Seeder
-  image: andrew-seeder.jpg
+  image:
   email: andrew@codeforboston.org
 
 - name: Matt Zagaja
-  image: matt-zagaja.jpg
+  image:
   email: mattz@codeforboston.org

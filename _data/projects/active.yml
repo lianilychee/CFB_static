@@ -1,6 +1,6 @@
 -
   name: Cliff Effects
-  description: description
+  description: description lorem ipsum
   news: >
    **User testing was a success! Now we need to:**
     * Discuss and implement changes needed from user feedback and create a better user experience
@@ -12,6 +12,7 @@
   repo_url: https://github.com/codeforboston/cliff-effects
   site_url: https://codeforboston.github.io/cliff-effects/#/
   seeking:
+  leader: Michelle Bernstein
 -
   name: My City Voice App
   description:
@@ -28,6 +29,7 @@
   repo_url: https://github.com/codeforboston/voiceapp311
   site_url:
   seeking:
+  leader: Jamie Martini
 -
   name: Interactive Film Documentary
   url:
@@ -41,6 +43,7 @@
   repo_url:
   site_url:
   seeking:
+  leader: Andrew Seeder
 -
   name: MuckRock
   description:
@@ -55,3 +58,4 @@
   repo_url:
   site_url: https://www.muckrock.com/
   seeking:
+  leader: Mike Morisey
